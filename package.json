@@ -1,0 +1,27 @@
+{
+  "name": "404-page-tailwindcss",
+  "version": "1.0.0",
+  "description": "404 page made with tailwindcss",
+  "main": "js/main.js",
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hebertcisco/404-page-tailwindcss.git"
+  },
+  "keywords": [
+    "tailwindcss"
+  ],
+  "author": "Hebert F Barros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hebertcisco/404-page-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/hebertcisco/404-page-tailwindcss#readme"
+}
